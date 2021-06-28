@@ -6,7 +6,6 @@ This anaylsis was completed for Steve's parents who are looking to invest in gre
 
 This analysis was completed to assist Steve's parents.  It should help them understand whether or not they should invest in DQ, some other form of green enery, or a different company.
 
----
 ## Results
 
 The analysis includes a review of stock analysis for 12 green energy stocks over two years.  The analysis includes looking at the daily stock prices (opening, closing, daily high/low) and trade volumes for the stock.  
